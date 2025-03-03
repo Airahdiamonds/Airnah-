@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Lexend';
+    src: url('../assets/fonts/Lexend.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  * {
+    font-family: 'Lexend';
+  }
+  @font-face {
+    font-family: 'glida';
+    src: url('../assets/fonts/Glida.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  .special {
+    font-family: 'glida';
+  }
